@@ -10,12 +10,8 @@
 
 <br/>
 
-[![Website](https://raw.githubusercontent.com/aknjoroge/aknjoroge/master/gitupload2.png)](https://techkey.co.ke/)
-
-<br/>
-
 - 🔭 Currently improving my (MERN) stack skills
-- 💡 Motivation quote : Pasos cortos vision largo
+- 💡 Motivation quote : _Pasos cortos vision largo_
 
 <br/>
 
