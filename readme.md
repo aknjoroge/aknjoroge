@@ -34,68 +34,32 @@
 <br/>
 <hr/>
 
-<br/>
-
 ## Conversant languages
 
 <br/>
-<div style="margin:10px;width:100%;box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.514); padding:10px;background-color:white;color:black;border-radius:15px" >
-<table style="width:100%" >
 
-<tr>
-<th>Web</th>
-<th> </th>
-<th> </th>
- 
-</tr>
-<tr>
-<td>Html</td>
-<td>Css</td>
-<td>JavaScript</td>
-</tr>
-<tr>
-<td>Scss</td>
-<td>Query</td>
-<td>bootstrap</td>
-</tr>
-<tr>
-<td>react</td>
-<td>Three.js</td>
-<td>Node js</td>
-</tr>
-  
-  <tr>
-    <td>php</td>
-  </tr>
-</table>
-</div>
-<div style="margin:10px;width:100%;box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.514); padding:10px;background-color:white;color:black;border-radius:15px" >
-<table style="width:100%; ">
-  <tr>
-    <th>Database</th>
-    <th> </th>
-    
-  </tr>  
-  <tr>
-    <td>Sql</td>
-    <td>Mongo</td>
-  </tr>
-</table>
-</div>
-<div style="margin:10px;width:100%;box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.514); padding:10px;background-color:white;color:black;border-radius:15px" >
-<table  style="width:100%;">
-  <tr>
-    <th>Android</th>
-    <th> </th>
-  </tr>  
-  <tr>
-    <td>Java</td>
-    <td>flutter</td>
-  </tr>
-  <tr>
-    <td>React Native</td>
-  </tr>
-</table>
+<div style="box-shadow: 10px 10px 10px black;background-color:white;color:black;padding:25px;border-radius:10px" >
+
+### Web
+
+|           |              |                |
+| --------- | ------------ | -------------: |
+| **Html**  | **Css**      | **JavaScript** |
+| **Scss**  | **Query**    |  **bootstrap** |
+| **react** | **Three.js** |    **Node js** |
+| **php**   |              |                |
+
+### Database
+
+|         |           |
+| ------- | --------- |
+| **Sql** | **Mongo** |
+
+### Android
+
+|          |             |                  |
+| -------- | ----------- | ---------------: |
+| **Java** | **Flutter** | **React Native** |
 
 </div>
 
