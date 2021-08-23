@@ -1,8 +1,8 @@
 <hr id="start"/>
 
-## Hello World 👋
+## Hello World <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" />
 
-### I'm Alexander Karanja - a Developer @ [Techkey Cybernetics](https://techkey.co.ke/)
+### I'm **Alexander Karanja** - a Developer @ [Techkey Cybernetics](https://techkey.co.ke/)
 
 [![Website](https://raw.githubusercontent.com/aknjoroge/aknjoroge/master/gitupload2.png)](https://techkey.co.ke/)
 
@@ -13,7 +13,7 @@
 
 <br/>
 
-### Connect with me: 💬
+## Connect with me: 💬
 
 <p>
   <a target="_BLANk" href="https://www.linkedin.com/in/alexander-karanja-ceo-techkey" target="_blank"><img width="22px" alt="LinkedIn" src="https://image.flaticon.com/icons/png/512/174/174857.png" /></a>
@@ -22,7 +22,7 @@
 
 ## </p>
 
-# Conversant languages
+## Conversant languages
 
 ### Web
 
@@ -46,6 +46,7 @@
 | **Java** | **Flutter** | **React Native** |
 
 <br/>
+<hr/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aknjoroge&layout=compact)](https://github.com/aknjoroge)
 
@@ -99,7 +100,7 @@
 
 ---
 
-### 🚧 Latest projects
+## 🚧 Latest projects
 
 - [ARC CBO](http://arc.or.ke/)
 - [Jumla Cuts](https://jumlacuts.co.ke/)
