@@ -6,15 +6,29 @@
 
 <br/>
 
+> ### Helping people build functional, user-friendly and attractive systems.
+
 [![Website](https://raw.githubusercontent.com/aknjoroge/aknjoroge/master/gitupload2.png)](https://techkey.co.ke/)
 
-### I help people build functional, user-friendly and attractive systems.
+<br/>
 
 - 🔭 Currently improving my (MERN) stack skills
 - 💡 Motivation quote : Pasos cortos vision largo
 
 <br/>
 
+```javascript
+function DoYourBest(args){
+    if(args === true){
+        _doyourbest(WillMakeYou Happy,arg);
+        LiveLifeToTheFullest();
+    }else{
+        lifeNotWorthLiving();
+    }
+}
+```
+
+<br>
 <hr/>
 
 ## GitHub Activity
@@ -124,9 +138,7 @@
 
 ---
 
-<br/>
-
-## Activity
+## Cards
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aknjoroge&repo=EcommerceApp&theme=cobalt)](https://github.com/aknjoroge)
 
