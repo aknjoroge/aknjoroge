@@ -27,18 +27,18 @@
 
 > | Web     |            |              |
 > | ------- | ---------- | -----------: |
-> | `Html`  | `Css`      | `JavaScript` |
-> | `Scss`  | `Query`    |  `bootstrap` |
-> | `react` | `Three.js` |    `Node js` |
-> | `php`   |            |              |
+> | *Html*  | *Css*      | *JavaScript* |
+> | *Scss*  | *Query*    |  *bootstrap* |
+> | *react* | *Three.js* |    *Node js* |
+> | *php*   |            |              |
 
 > | Database |         |     |
 > | -------- | ------- | --- |
-> | `Sql`    | `Mongo` |     |
+> | *Sql*    | *Mongo* |     |
 
 > | Android |           |                |
 > | ------- | --------- | -------------: |
-> | `Java`  | `Flutter` | `React Native` |
+> | *Java*  | *Flutter* | *React Native* |
 
 <br/>
 
