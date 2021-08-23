@@ -55,7 +55,7 @@ function DoYourBest(args){
 |           |              |                |
 | --------- | ------------ | -------------: |
 | **Html**  | **Css**      | **JavaScript** |
-| **Scss**  | **Query**    |  **bootstrap** |
+| **Scss**  | **jQuery**   |  **bootstrap** |
 | **react** | **Three.js** |    **Node js** |
 | **php**   |              |                |
 
