@@ -17,6 +17,14 @@
 
 <hr/>
 
+## GitHub Activity
+
+<!--dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula-->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aknjoroge&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/aknjoroge)
+
+---
+
 ### Connect with me: 💬
 
 <p style="padding-left: 40px"  >
@@ -107,8 +115,6 @@
 
 ---
 
-<br/>
-
 ## 🚧 Latest projects
 
 - [ARC CBO](http://arc.or.ke/)
@@ -116,17 +122,11 @@
 
 ➡️ [more Projects...](https://techkey.co.ke)
 
-<br/>
-
 ---
 
 <br/>
 
-## GitHub Activity
-
-<!--dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula-->
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aknjoroge&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/aknjoroge)
+## Activity
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aknjoroge&repo=EcommerceApp&theme=cobalt)](https://github.com/aknjoroge)
 
