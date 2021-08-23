@@ -25,20 +25,20 @@
 
 # Conversant languages
 
-> | Web     |            |              |
-> | ------- | ---------- | -----------: |
-> | *Html*  | *Css*      | *JavaScript* |
-> | *Scss*  | *Query*    |  *bootstrap* |
-> | *react* | *Three.js* |    *Node js* |
-> | *php*   |            |              |
+| Web     |            |              |
+| ------- | ---------- | -----------: |
+| *Html*  | *Css*      | *JavaScript* |
+| *Scss*  | *Query*    |  *bootstrap* |
+| *react* | *Three.js* |    *Node js* |
+| *php*   |            |              |
 
-> | Database |         |     |
-> | -------- | ------- | --- |
-> | *Sql*    | *Mongo* |     |
+| Database |         |     |
+| -------- | ------- | --- |
+| *Sql*    | *Mongo* |     |
 
-> | Android |           |                |
-> | ------- | --------- | -------------: |
-> | *Java*  | *Flutter* | *React Native* |
+| Android |           |                |
+| ------- | --------- | -------------: |
+| *Java*  | *Flutter* | *React Native* |
 
 <br/>
 
