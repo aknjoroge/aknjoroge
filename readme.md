@@ -26,20 +26,20 @@
 
 # Conversant languages
 
-| Web                              |                                     |                                       |
-| -------------------------------- | ----------------------------------- | ------------------------------------: |
-| <p  style="color:white">Html</p> | <p style="color:white">Css</p>      | <p style="color:white">JavaScript</p> |
-| <p style="color:white">Scss</p>  | <p style="color:white">Query</p>    |  <p style="color:white">bootstrap</p> |
-| <p style="color:white">react</p> | <p style="color:white">Three.js</p> |    <p style="color:white">Node js</p> |
-| <p style="color:white">php</p>   |                                     |                                       |
+| Web       |              |                |
+| --------- | ------------ | -------------: |
+| **Html**  | **Css**      | **JavaScript** |
+| **Scss**  | **Query**    |  **bootstrap** |
+| **react** | **Three.js** |    **Node js** |
+| **php**   |              |                |
 
-| Database                       |                                  |
-| ------------------------------ | -------------------------------- |
-| <p style="color:white">Sql</p> | <p style="color:white">Mongo</p> |
+| Database |           |
+| -------- | --------- |
+| **Sql**  | **Mongo** |
 
-| Android                         |                                    |                                         |
-| ------------------------------- | ---------------------------------- | --------------------------------------: |
-| <p style="color:white">Java</p> | <p style="color:white">Flutter</p> | <p style="color:white">React Native</p> |
+| **Android** |             |                  |
+| ----------- | ----------- | ---------------: |
+| **Java**    | **Flutter** | **React Native** |
 
 <br/>
 
