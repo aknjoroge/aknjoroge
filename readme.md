@@ -16,28 +16,34 @@
 ### Connect with me: 💬
 
 <p>
-  <a target="_BLANk" href="https://www.linkedin.com/in/alexander-karanja-ceo-techkey" target="_blank"><img width="22px" alt="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
- <a target="_BLANk" href="https://www.instagram.com/techkey_cybernetics/" target="_blank"><img width="22px" alt="Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
-  <a target="_BLANk" href="https://twitter.com/Techkey_co" target="_blank"><img  width="22px" alt="Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
+  <a target="_BLANk" href="https://www.linkedin.com/in/alexander-karanja-ceo-techkey" target="_blank"><img width="22px" alt="LinkedIn" src="https://image.flaticon.com/icons/png/512/174/174857.png" /></a>
+ <a target="_BLANk" href="https://www.instagram.com/techkey_cybernetics/" target="_blank"><img width="22px" alt="Twitter" src="https://image.flaticon.com/icons/png/512/2111/2111463.png" /></a>
+  <a target="_BLANk" href="https://twitter.com/Techkey_co" target="_blank"><img  width="22px" alt="Twitter" src="https://image.flaticon.com/icons/png/512/145/145812.png" /></a>
 
 ## </p>
 
 # Conversant languages
 
-| Web       |              |                |
+### Web
+
+|           |              |                |
 | --------- | ------------ | -------------: |
 | **Html**  | **Css**      | **JavaScript** |
 | **Scss**  | **Query**    |  **bootstrap** |
 | **react** | **Three.js** |    **Node js** |
 | **php**   |              |                |
 
-| Database |           |
-| -------- | --------- |
-| **Sql**  | **Mongo** |
+### Database
 
-| **Android** |             |                  |
-| ----------- | ----------- | ---------------: |
-| **Java**    | **Flutter** | **React Native** |
+|         |           |
+| ------- | --------- |
+| **Sql** | **Mongo** |
+
+### Android
+
+|          |             |                  |
+| -------- | ----------- | ---------------: |
+| **Java** | **Flutter** | **React Native** |
 
 <br/>
 
