@@ -4,8 +4,6 @@
 
 ### I'm Alexander Karanja - a Developer @ [Techkey Cybernetics](https://techkey.co.ke/)
 
-<img align="right" style="height:auto;" alt="Alexander Karanja" width="180" class="avatar avatar-user width-full border color-bg-primary" src="https://avatars.githubusercontent.com/u/60213771 ">
-
 [![Website](https://raw.githubusercontent.com/aknjoroge/aknjoroge/master/gitupload2.png)](https://techkey.co.ke/)
 
 ## I help people build functional, user-friendly and attractive systems.
