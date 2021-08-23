@@ -6,7 +6,7 @@
 
 <img align="right" style="height:auto;" alt="Alexander Karanja" width="180" class="avatar avatar-user width-full border color-bg-primary" src="https://avatars.githubusercontent.com/u/60213771 ">
 
-[![Website](https://techkey.co.ke/Techkey_modules/media/whiteLogo.png)](https://techkey.co.ke/)
+[![Website](https://raw.githubusercontent.com/aknjoroge/aknjoroge/master/gitupload2.png)](https://techkey.co.ke/)
 
 ## I help people build functional, user-friendly and attractive systems.
 
@@ -18,9 +18,9 @@
 ### Connect with me: 💬
 
 <p>
-  <a href="https://www.linkedin.com/in/alexander-karanja-ceo-techkey" target="_blank"><img width="22px" alt="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
- <a href="https://www.instagram.com/techkey_cybernetics/" target="_blank"><img width="22px" alt="Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
-  <a href="https://twitter.com/Techkey_co" target="_blank"><img  width="22px" alt="Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
+  <a target="_BLANk" href="https://www.linkedin.com/in/alexander-karanja-ceo-techkey" target="_blank"><img width="22px" alt="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+ <a target="_BLANk" href="https://www.instagram.com/techkey_cybernetics/" target="_blank"><img width="22px" alt="Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+  <a target="_BLANk" href="https://twitter.com/Techkey_co" target="_blank"><img  width="22px" alt="Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
 
 ## </p>
 
