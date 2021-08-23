@@ -4,49 +4,104 @@
 
 ### I'm **Alexander Karanja** - a Developer @ [Techkey Cybernetics](https://techkey.co.ke/)
 
+<br/>
+
 [![Website](https://raw.githubusercontent.com/aknjoroge/aknjoroge/master/gitupload2.png)](https://techkey.co.ke/)
 
-## I help people build functional, user-friendly and attractive systems.
+<br/>
+
+### I help people build functional, user-friendly and attractive systems.
 
 - 🔭 Currently improving my (MERN) stack skills
 - 💡 Motivation quote : Pasos cortos vision largo
 
 <br/>
 
-## Connect with me: 💬
+<hr/>
 
-<p>
-  <a target="_BLANk" href="https://www.linkedin.com/in/alexander-karanja-ceo-techkey" target="_blank"><img width="22px" alt="LinkedIn" src="https://image.flaticon.com/icons/png/512/174/174857.png" /></a>
- <a target="_BLANk" href="https://www.instagram.com/techkey_cybernetics/" target="_blank"><img width="22px" alt="Twitter" src="https://image.flaticon.com/icons/png/512/2111/2111463.png" /></a>
-  <a target="_BLANk" href="https://twitter.com/Techkey_co" target="_blank"><img  width="22px" alt="Twitter" src="https://image.flaticon.com/icons/png/512/145/145812.png" /></a>
+<br/>
 
-## </p>
+### Connect with me: 💬
+
+<br/>
+
+<p style="padding-left: 40px"  >
+  <a target="_BLANk" href="https://www.linkedin.com/in/alexander-karanja-ceo-techkey" target="_blank"><img width="30px" alt="LinkedIn"   src="https://image.flaticon.com/icons/png/512/174/174857.png" /></a> 
+ <a target="_BLANk" style="margin: 10px" href="https://www.instagram.com/techkey_cybernetics/" target="_blank"><img width="30px" alt="Twitter" src="https://image.flaticon.com/icons/png/512/2111/2111463.png" /></a>
+  <a target="_BLANk"   href="https://twitter.com/Techkey_co" target="_blank"><img  width="30px" alt="Twitter" src="https://image.flaticon.com/icons/png/512/145/145812.png" /></a>
+
+</p>
+<br/>
+<hr/>
+
+<br/>
 
 ## Conversant languages
 
-### Web
+<br/>
+<div style="margin:10px;width:100%;box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.514); padding:10px;background-color:white;color:black;border-radius:15px" >
+<table style="width:100%" >
 
-|           |              |                |
-| --------- | ------------ | -------------: |
-| **Html**  | **Css**      | **JavaScript** |
-| **Scss**  | **Query**    |  **bootstrap** |
-| **react** | **Three.js** |    **Node js** |
-| **php**   |              |                |
+<tr>
+<th>Web</th>
+<th> </th>
+<th> </th>
+ 
+</tr>
+<tr>
+<td>Html</td>
+<td>Css</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td>Scss</td>
+<td>Query</td>
+<td>bootstrap</td>
+</tr>
+<tr>
+<td>react</td>
+<td>Three.js</td>
+<td>Node js</td>
+</tr>
+  
+  <tr>
+    <td>php</td>
+  </tr>
+</table>
+</div>
+<div style="margin:10px;width:100%;box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.514); padding:10px;background-color:white;color:black;border-radius:15px" >
+<table style="width:100%; ">
+  <tr>
+    <th>Database</th>
+    <th> </th>
+    
+  </tr>  
+  <tr>
+    <td>Sql</td>
+    <td>Mongo</td>
+  </tr>
+</table>
+</div>
+<div style="margin:10px;width:100%;box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.514); padding:10px;background-color:white;color:black;border-radius:15px" >
+<table  style="width:100%;">
+  <tr>
+    <th>Android</th>
+    <th> </th>
+  </tr>  
+  <tr>
+    <td>Java</td>
+    <td>flutter</td>
+  </tr>
+  <tr>
+    <td>React Native</td>
+  </tr>
+</table>
 
-### Database
-
-|         |           |
-| ------- | --------- |
-| **Sql** | **Mongo** |
-
-### Android
-
-|          |             |                  |
-| -------- | ----------- | ---------------: |
-| **Java** | **Flutter** | **React Native** |
+</div>
 
 <br/>
 <hr/>
+<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aknjoroge&layout=compact)](https://github.com/aknjoroge)
 
@@ -100,6 +155,8 @@
 
 ---
 
+<br/>
+
 ## 🚧 Latest projects
 
 - [ARC CBO](http://arc.or.ke/)
@@ -107,9 +164,14 @@
 
 ➡️ [more Projects...](https://techkey.co.ke)
 
+<br/>
+
 ---
 
-<summary>GitHub Activity</summary>
+<br/>
+
+## GitHub Activity
+
 <!--dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula-->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aknjoroge&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/aknjoroge)
@@ -121,5 +183,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aknjoroge&repo=interactive_new_web&theme=dracula)](https://github.com/aknjoroge)
 
 [website]: https://techkey.co.ke
+
+<br/>
 
 [Back To The Top](#start)
