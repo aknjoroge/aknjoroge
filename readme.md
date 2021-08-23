@@ -8,8 +8,6 @@
 
 [![Website](https://raw.githubusercontent.com/aknjoroge/aknjoroge/master/gitupload2.png)](https://techkey.co.ke/)
 
-<br/>
-
 ### I help people build functional, user-friendly and attractive systems.
 
 - 🔭 Currently improving my (MERN) stack skills
@@ -19,11 +17,7 @@
 
 <hr/>
 
-<br/>
-
 ### Connect with me: 💬
-
-<br/>
 
 <p style="padding-left: 40px"  >
   <a target="_BLANk" href="https://www.linkedin.com/in/alexander-karanja-ceo-techkey" target="_blank"><img width="30px" alt="LinkedIn"   src="https://image.flaticon.com/icons/png/512/174/174857.png" /></a> 
@@ -31,14 +25,12 @@
   <a target="_BLANk"   href="https://twitter.com/Techkey_co" target="_blank"><img  width="30px" alt="Twitter" src="https://image.flaticon.com/icons/png/512/145/145812.png" /></a>
 
 </p>
-<br/>
+
 <hr/>
 
 ## Conversant languages
 
 <br/>
-
-<div style="box-shadow: 10px 10px 10px black;background-color:white;color:black;padding:25px;border-radius:10px" >
 
 ### Web
 
@@ -60,8 +52,6 @@
 |          |             |                  |
 | -------- | ----------- | ---------------: |
 | **Java** | **Flutter** | **React Native** |
-
-</div>
 
 <br/>
 <hr/>
