@@ -136,13 +136,15 @@ function DoYourBest(args){
 
 ---
 
-## Cards
+## Pins
+
+<!--dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula-->
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aknjoroge&repo=node-server&theme=cobalt)](https://github.com/aknjoroge/node-server)
 
-<!---
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aknjoroge&repo=visual-basic&theme=synthwave)](https://github.com/aknjoroge)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aknjoroge&repo=node-farm-server&theme=gruvbox)](https://github.com/aknjoroge/node-farm-server)
 
+<!---
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aknjoroge&repo=interactive_new_web&theme=dracula)](https://github.com/aknjoroge)
 -->
 
