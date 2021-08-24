@@ -138,7 +138,7 @@ function DoYourBest(args){
 
 ## Cards
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aknjoroge&repo=node-server&theme=cobalt)](https://github.com/aknjoroge)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aknjoroge&repo=node-server&theme=cobalt)](https://github.com/aknjoroge/node-server)
 
 <!---
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aknjoroge&repo=visual-basic&theme=synthwave)](https://github.com/aknjoroge)
