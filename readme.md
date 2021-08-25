@@ -40,9 +40,9 @@ function DoYourBest(args){
 ### Connect with me: 💬
 
 <p style="padding-left: 40px"  >
-  <a target="_BLANk" href="https://www.linkedin.com/in/alexander-karanja-ceo-techkey" target="_blank"><img width="30px" alt="LinkedIn"   src="https://image.flaticon.com/icons/png/512/174/174857.png" /></a> 
+  <a target="_BLANk" href="https://www.linkedin.com/in/aknjoroge" target="_blank"><img width="30px" alt="LinkedIn"   src="https://image.flaticon.com/icons/png/512/174/174857.png" /></a> 
  <a target="_BLANk" style="margin: 10px" href="https://www.instagram.com/techkey_cybernetics/" target="_blank"><img width="30px" alt="Twitter" src="https://image.flaticon.com/icons/png/512/2111/2111463.png" /></a>
-  <a target="_BLANk"   href="https://twitter.com/Techkey_co" target="_blank"><img  width="30px" alt="Twitter" src="https://image.flaticon.com/icons/png/512/145/145812.png" /></a>
+  <a target="_BLANk"   href="https://twitter.com/aknjoroge" target="_blank"><img  width="30px" alt="Twitter" src="https://image.flaticon.com/icons/png/512/145/145812.png" /></a>
 
 </p>
 
