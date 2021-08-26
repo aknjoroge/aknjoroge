@@ -144,6 +144,8 @@ function DoYourBest(args){
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aknjoroge&repo=node-farm-server&theme=gruvbox)](https://github.com/aknjoroge/node-farm-server)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aknjoroge&repo=coming-soon-page&theme=synthwave)](https://github.com/aknjoroge/coming-soon-page)
+
 <!---
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aknjoroge&repo=interactive_new_web&theme=dracula)](https://github.com/aknjoroge)
 -->
