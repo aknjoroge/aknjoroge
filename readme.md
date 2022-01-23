@@ -38,7 +38,7 @@ function DoYourBest(args){
 
 ### Connect with me: 💬
 
-<p style="padding-left: 40px"  >
+<p style="padding-left: 10px"  >
   <a target="_BLANk" href="https://www.linkedin.com/in/aknjoroge" target="_blank"><img width="30px" alt="LinkedIn"   src="https://image.flaticon.com/icons/png/512/174/174857.png" /></a> 
   <a target="_BLANk"   href="https://twitter.com/aknjoroge" target="_blank"><img  width="30px" alt="Twitter" src="https://image.flaticon.com/icons/png/512/145/145812.png" /></a>
 
