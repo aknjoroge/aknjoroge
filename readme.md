@@ -24,8 +24,6 @@ View my portfolio [here](https://aknjoroge.resume.co.ke/).
 
 ## 📈 GitHub Stats
 
-| Tech Stack | Quote |
-
 | ![aknjoroge's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aknjoroge&show_icons=true&theme=tokyonight) | ![aknjoroge's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aknjoroge&theme=tokyonight) |
 | --------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
 
