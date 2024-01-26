@@ -1,55 +1,34 @@
-<hr id="start"/>
+# Hi, I'm Alexander Karanja! 👋
 
-## Hello World <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" />
+I'm a passionate Fullstack MERN stack developer with experience working for award-winning agencies such as [Kapu Digital](https://kapudigital.co.ke/) and Aid-for-Trade organization [Trademark Africa](https://www.trademarkafrica.com/)
 
-### I'm **Alexander Karanja** - a Developer @ [Techkey Cybernetics](https://techkey.co.ke/)
+## 🔧 Tech Stack
 
-<br/>
+- Frontend: React, Next.js, Nuxt.js, WordPress, HTML5/CSS3, JavaScript
+- Mobile: React-native
+- UI frameworks: Bootstrap, Tailwind CSS, Chakra UI, NativeBase, NextUI, Ant Design
+- Backend: Node.js, Express
+- Database: MongoDB
+- Testing: Jest
+- Orchestration: Docker, Kubernetes, Microservices
+- Cloud Provider: DigitalOcean
+- Technologies: Directus, Typescript, Socket.io, Git
 
-> ### Crafting great software and providing excellent customer experiences.
+## 💬 Quote
 
-<br/>
+"Don't downgrade your dream just to fit your reality. Upgrade your conviction to match your destiny."
 
-### PortFolio : [https://alex.techkey.co.ke/](https://alex.techkey.co.ke/)
+## 🌐 Portfolio
 
-<br/>
+View my portfolio [here](https://aknjoroge.resume.co.ke/).
 
-```javascript
-function DoYourBest(args){
-    if(args === true){
-        _doyourbest(WillMakeYou Happy,arg);
-        LiveLifeToTheFullest();
-    }else{
-        lifeNotWorthLiving();
-    }
-}
-```
+## 📈 GitHub Stats
 
-<br>
-<hr/>
+![aknjoroge's github stats](https://github-readme-stats.vercel.app/api?username=aknjoroge&show_icons=true&theme=tokyonight) | ![aknjoroge GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aknjoroge&theme=tokyonight)
 
-## GitHub Activity
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aknjoroge&theme=tokyonight)
 
-<!--dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula-->
+## 📬 Connect with Me
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aknjoroge&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/aknjoroge)
-
----
-
-## Social Links
-
-<p style="padding-left: 10px"  >
-  <a target="_BLANk" href="https://www.linkedin.com/in/aknjoroge" target="_blank"><img width="30px" alt="LinkedIn"   src="https://image.flaticon.com/icons/png/512/174/174857.png" /></a> 
-  <a target="_BLANk" style="margin-left: 10px"   href="https://twitter.com/aknjoroge" target="_blank"><img  width="30px" alt="Twitter" src="https://image.flaticon.com/icons/png/512/145/145812.png" /></a>
-
-</p>
-
-<hr/>
-
-<br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aknjoroge&layout=compact)](https://github.com/aknjoroge)
-
-<br/>
-
-[Back To The Top](#start)
+- [LinkedIn](https://www.linkedin.com/in/aknjoroge)
+- [Twitter](https://twitter.com/aknjoroge)
