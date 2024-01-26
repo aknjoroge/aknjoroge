@@ -24,7 +24,7 @@ View my portfolio [here](https://aknjoroge.resume.co.ke/).
 
 ## 📈 GitHub Stats
 
-![aknjoroge's github stats](https://github-readme-stats.vercel.app/api?username=aknjoroge&show_icons=true&theme=tokyonight) | ![aknjoroge GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aknjoroge&theme=tokyonight)
+|![aknjoroge's github stats](https://github-readme-stats.vercel.app/api?username=aknjoroge&show_icons=true&theme=tokyonight) | ![aknjoroge GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aknjoroge&theme=tokyonight) |
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aknjoroge&theme=tokyonight)
 
