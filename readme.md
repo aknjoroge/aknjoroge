@@ -1,6 +1,6 @@
 # Hi, I'm Alexander Karanja! 👋
 
-I'm a passionate Fullstack MERN stack developer with experience working for award-winning agencies such as [Kapu Digital](https://kapudigital.co.ke/) and Aid-for-Trade organization [Trademark Africa](https://www.trademarkafrica.com/)
+I'm a passionate Fullstack MERN Developer with experience working for award-winning agencies such as [Kapu Digital](https://kapudigital.co.ke/) and Aid-for-Trade organization [Trademark Africa](https://www.trademarkafrica.com/)
 
 ## 🔧 Tech Stack
 
