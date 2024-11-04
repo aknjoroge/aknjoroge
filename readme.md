@@ -20,7 +20,7 @@ I'm a passionate Fullstack MERN Developer with experience working for award-winn
 
 ## 🌐 Portfolio
 
-View my portfolio [here](https://aknjoroge.resume.co.ke/).
+View my portfolio [here](https://aknjoroge.techkey.co.ke/).
 
 ## 📈 GitHub Stats
 
